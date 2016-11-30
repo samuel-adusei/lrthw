@@ -28,6 +28,6 @@ puts w + e
 #out put of the sum of the two variables
 
 #STUDY DRILL
-# 2 string interpolation,[] using /
+# 2 string interpolation,[] using / "" "
 # 3 The reason w + e makes a longerstring is that using the + combines the string togetehr 
 # 4 It doesnt really matter weather you use double quotes or single quotes most of the time  unless for / double quotes is prefered 
